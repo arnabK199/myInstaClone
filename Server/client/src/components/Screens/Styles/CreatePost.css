@@ -1,0 +1,10 @@
+.create-post{
+    margin: 30px auto;
+    max-width: 500px;
+    padding: 40px;
+    text-align: center;
+}
+
+.btn, .submit-btn{
+    background-color: royalblue !important;
+}

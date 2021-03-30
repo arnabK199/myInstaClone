@@ -1,0 +1,33 @@
+.my-card{
+    margin-top: 30px;
+}
+
+.brand-logo{
+    margin: auto;
+    padding: 0px 30px;
+}
+
+.auth-card{
+    border: 1px solid rgba(0,0,0,0.4);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+    padding: 50px;
+    max-width: 400px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit-btn{
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: royalblue;
+    color: white;
+}
+
+input:focus{
+    border-bottom: 0.7px solid rgb(8, 93, 252) !important;
+    box-shadow: 0 1px 0 0 rgb(8, 93, 252) !important;
+}

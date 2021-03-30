@@ -1,0 +1,41 @@
+.home-card{
+    max-width: 40%;
+    height: max-content;
+    margin: 26px auto;
+    position: relative;
+}
+
+.item-post, .class-content{
+    padding: 35px 10px 10px;
+    border-radius: 20%;
+}
+
+.post-by{
+    padding: 10px 0 0 10px;
+}
+
+.material-icons{
+    cursor: pointer;
+    padding-right: 10px;
+}
+
+.submit-btn{
+    margin-bottom: 10px;
+}
+
+.profile-mini{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.user-profile{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+    padding-top: 5px;
+    z-index: 0;
+    cursor: pointer;
+}
